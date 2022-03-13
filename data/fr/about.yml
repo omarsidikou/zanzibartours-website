@@ -1,0 +1,27 @@
+enable  : true
+topTitle: HOW WE WORKS
+title   : Our Work Process
+item    :
+  - positionRight : false
+    image : images/about/stone_town_1.jpg
+    title : Stown town
+    description : >
+      Explorez le site du patrimoine mondial de Stone Town, le vieux quartier de Zanzibar City.
+      Les anciens palais et manoirs arabes le long des rues sinueuses de Stone Town suggèrent un âge plus grandiose pour cette ville portuaire de la côte ouest de Zanzibar.
+      Le Vieux Fort, construit dans les années 1700 pour repousser les Portugais, accueille désormais des spectacles locaux, un café et une galerie d'art. Les bazars surpeuplés donnent un air d'agitation ininterrompue. Le parc marin de l'île de Mafia se trouve juste au large, un paradis pour la plongée en apnée dans les récifs locaux.
+
+  - positionRight : true
+    image : images/about/ab_1.jpeg
+    title : Prison island
+    description : >
+        Depuis Stone Town, vous pouvez prendre un bateau pour vous rendre à Prison Island.
+        Le premier ministre britannique de Zanzibar, Lloyd Mathews, a acheté l'île en 1893 et ​​y a construit un complexe pénitentiaire.
+        Aucun prisonnier n'a jamais été hébergé sur l'île et à la place, elle est devenue une station de quarantaine pour les cas de fièvre jaune.
+        Maintenant, vous verrez des tortues géantes d'aldabra et une ancienne prison qui n'a jamais été utilisée.
+
+
+  - positionRight : false
+    image : images/portfolio/beach_3.jpg
+    title : Zanzibar sunset
+    description : >
+       Vous ne pouvez pas quitter Zanzibar avant d'aller à la plage et de profiter du coucher de soleil !

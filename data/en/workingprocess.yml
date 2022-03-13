@@ -1,0 +1,12 @@
+enable  : true
+title   : Our services
+subtitle: Looking for your next great adventure ? We can help. Here is a sampling of our most popular locations in Zanzibar. Experience private tours with authentic local flavour.
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : Every tour private and customizable
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Connect with a local travel expert to plan your personalized dream trip
+
+  - icon  : tf-ion-ios-book-outline
+    title : Change of scenery guaranteed !

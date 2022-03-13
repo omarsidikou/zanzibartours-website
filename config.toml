@@ -1,0 +1,143 @@
+baseURL = "https://demo.gethugothemes.com/navigator/examplesite/"
+languageCode = "en-us"
+title = "Aly & Mustafa Zanzibar Tours"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Site Params
+[params]
+logo = "images/logo.png"
+
+# Gestion des langues : FR / EN / NL / DE
+[[Params.listeLangues]]
+code = "fr"
+[[Params.listeLangues]]
+code = "en"
+
+# meta data
+#author = "Themefisher"
+description = "Zanzibar Tours"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+############ 1 - Site en FRANCAIS
+[Languages.fr]
+weight = 1
+languageCode = "fr-fr"
+title = "Aly & Mustafa Zanzibar Tours"
+dateFormat = "2 January 2006"
+
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+
+# Hero Area Section
+[Languages.fr.params.hero]
+enable = true
+heading = "Bienvenue sur Aly & Mustafa - Zanzibar Tours & excurtions"
+description = "Découvrir l'ile de Zanzibar en compagnie de Aly & Mustafa, les plus symphatiques et expérimentés guides touristiques que vous pouvez rencontrer !"
+videoThumb = "images/slider/stone_town_1.jpg"
+videoURL = "https://www.youtube.com/embed/nJqRHrpi0Mk"
+videoThumb2 = "images/portfolio/snorkling_1.jpeg"
+videoURL2 = "https://www.youtube.com/embed/2aBDIBct83Q"
+
+# About 2 Section
+[Languages.fr.params.aboutSm]
+enable = true
+title = "L'archipel de Zanzibar est situé en Tanzanie, il se compose de plusieurs îles situées au large des côtes de l'Afrique de l'Est au sud de la mer de Somalie."
+description = "Zanzibar a une histoire très riche et était autrefois l'une des régions les plus importantes d'Afrique de l'Est. Après la visite de Vasco de Gama en 1499, Zanzibar fut gouvernée par les Portugais et le resta pendant près de deux siècles. De nos jours, c'est l'une des destinations balnéaires les plus populaires d'Afrique."
+titlebis = "C'est l'une des activités les plus recommandées à Zanzibar, où vous pourrez nager et faire de la plongée avec tuba"
+descriptionBis = "Zanzibar est bien connue pour son eau claire et bleu turquoise; des bancs de sable peu profonds parfaits pour patauger ; et de nombreuses petites îles presque désertes"
+
+
+# Contact Section
+[Languages.fr.params.contact]
+enable = true
+topTitle = "Ecrivez nous un message"
+title = "Contactez nous"
+phone = "+255 773 036 820"
+facebook = "https://www.facebook.com/mtourszanzibar"
+instagram = "https://www.instagram.com/accounts/login/?next=/ally_zanzibar/"
+contactPicture = "images/team/mustafa_2.jpg"
+
+# Call to Action Section on About Page
+[Languages.fr.params.cta]
+enable = true
+bg = "images/call-to-action/call-to-action-bg-2.jpg"
+title = "FRANCAIS Let's Create Something Together"
+subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Nous contacter"
+
+############# 2 - Site en ENGLISH
+[Languages.en]
+weight = 2
+languageCode = "en-us"
+title = "Aly & Mustafa Zanzibar Tours"
+dateFormat = "January 2, 2006"
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable = true
+heading = "Welcome to Aly & Mustafa - Zanzibar Tours & excurtions"
+description = "Discover Zanzibar island in the company of Aly & Mustafa, The most friendly and experienced tourists guides you can meet "
+videoThumb = "images/slider/stone_town_1.jpg"
+videoURL = "https://www.youtube.com/embed/nJqRHrpi0Mk"
+videoThumb2 = "images/portfolio/snorkling_1.jpeg"
+videoURL2 = "https://www.youtube.com/embed/2aBDIBct83Q"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable = true
+title = "The Zanzibar Archipelago is located in Tanzania, it consists of several islands lying off the coast of East Africa south of the Somali sea."
+description = "Zanzibar has a very rich history and was once one of the most important areas in East Africa. Following Vasco de Gama’s visit in 1499, Zanzibar was ruled by the Portuguese and remained this way for almost two centuries. Nowadays, it’s one of the most popular beach destinations in Africa and with good reasons."
+titlebis = "This is one of our most recommend activities in Zanzibar, where we you can swim and snorkel"
+descriptionBis = "Zanzibar is well known for clear, turquoise-blue water; shallow sandbars perfect for wading; and many small, nearly deserted islands"
+
+# Contact Section
+
+[Languages.en.params.contact]
+enable = true
+contactPicture = "images/team/mustafa_2.jpg"
+topTitle = "DROP US A NOTE"
+title = "Contact Us"
+subtitle = "Let's create something Together"
+phone = "+255 773 036 820"
+facebook = "https://www.facebook.com/mtourszanzibar"
+instagram = "https://www.instagram.com/accounts/login/?next=/ally_zanzibar/"
+mapMarker = "images/team/mustafa_2.jpg"
+
+
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+[[menu.nav]]
+name = "portfolio"
+url = "portfolio/"
+weight = 4
+[[menu.nav]]
+name = "contact"
+url = "contact/"
+weight = 5

@@ -1,0 +1,19 @@
+enable  : true
+topTitle: 
+title   : L'équipe
+subtitle: Nous parlons Anglais, Français, Italien & Swahili
+
+member  :
+  - image         : images/team/aly.jpg
+    name          : Aly Khaizar
+    designation   :
+    description   : >
+
+    facebookURL   : https://www.facebook.com/aly.khaizar/
+
+  - image         : images/team/mustafa.jpg
+    name          : Mustafa kassimu
+    designation   :
+    description   : >
+
+    facebookURL   : https://www.facebook.com/mtourszanzibar

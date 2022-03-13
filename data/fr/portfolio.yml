@@ -1,0 +1,116 @@
+enable  : true
+topTitle: visitez
+title   : Les zones populaires de Zanzibar
+
+filtermenu :
+  - name      : Spice farm
+    category  : spicefarm
+
+  - name      : Prison island
+    category  : prisonisland
+
+  - name      : Stown town
+    category  : stonetown
+
+  - name      : Safari blue
+    category  : safariblue
+
+  - name      : Nungwi turtles & beach
+    category  : Nungwiturtlesbeach
+
+
+
+item   :
+
+  - title : Stown town
+    image : images/portfolio/stone-town_4.jpeg
+    category  : stonetown
+
+  - title : Stown town
+    image : images/portfolio/stone-town_2.jpg
+    category  : stonetown
+
+  - title : Stown town
+    image : images/portfolio/stone-town_3.jpg
+    category  : stonetown
+
+  - title : Stown town
+    image : images/portfolio/stone-town_3.jpeg
+    category  : stonetown
+
+  - title : Stown town
+    image : images/portfolio/stone-town_4.jpg
+    category  : stonetown
+
+  - title : Nungwi turtles
+    image : images/portfolio/turtle_1.jpeg
+    category  : Nungwiturtlesbeach
+
+  - title : Nungwi turtles
+    image : images/portfolio/turtle_2.jpeg
+    category  : Nungwiturtlesbeach
+
+  - title : sunset
+    image : images/portfolio/beach_6.jpg
+    category  : Nungwiturtlesbeach
+
+  - title : sunset
+    image : images/portfolio/beach_5.jpg
+    category  : Nungwiturtlesbeach
+
+  - title : Fishing game
+    image : images/portfolio/portfolio_1.jpeg
+    category  : safariblue
+
+  - title : Safari blue
+    image : images/portfolio/beach_4.jpg
+    category  : safariblue
+
+  - title : Safari blue
+    image : images/portfolio/safari_blue_4.jpeg
+    category  : safariblue
+
+
+  - title : Spice farm
+    image : images/portfolio/spice_farm_1.jpg
+    category  : spicefarm
+
+  - title : Spice farm
+    image : images/portfolio/spice_farm_2.jpeg
+    category  : spicefarm
+
+  - title : Spice farm
+    image : images/portfolio/spice_farm_3.jpeg
+    category  : spicefarm
+
+  - title : Spice farm - Christmas tree
+    image : images/portfolio/spice_farm_4.jpg
+    category  : spicefarm
+
+  - title : Safari blue
+    image : images/portfolio/safari_blue_2.jpg
+    category  : safariblue
+
+  - title : Safari blue
+    image : images/portfolio/safari_blue_5.jpeg
+    category  : safariblue
+
+  - title : Prison island
+    image : images/portfolio/prison_1.jpg
+    category  : prisonisland
+
+  - title : Prison island
+    image : images/portfolio/prison_2.jpg
+    category  : prisonisland
+
+  - title : Prison island
+    image : images/portfolio/prison_3.jpg
+    category  : prisonisland
+
+  - title : Prison island
+    image : images/portfolio/prison_4.jpg
+    category  : prisonisland
+
+  - title : Prison island
+    image : images/portfolio/prison_6.jpg
+    category  : prisonisland

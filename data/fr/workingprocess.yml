@@ -1,0 +1,12 @@
+enable  : true
+title   : Nos services
+subtitle: A la recherche de votre prochaine grande aventure ? Nous pouvons vous aider. Voici quelques exemples de nos emplacements les plus populaires. Vivez des visites privées avec une saveur locale authentique.
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : Chaque visite est privée et personnalisable
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Guides touristiques expérimentés et symphatiques
+
+  - icon  : tf-ion-ios-book-outline
+    title : Dépaysement garanti !
