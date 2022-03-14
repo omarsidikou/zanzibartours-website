@@ -53,6 +53,8 @@ videoThumb = "images/slider/stone_town_1.jpg"
 videoURL = "https://www.youtube.com/embed/nJqRHrpi0Mk"
 videoThumb2 = "images/portfolio/snorkling_1.jpeg"
 videoURL2 = "https://www.youtube.com/embed/2aBDIBct83Q"
+videoThumb3 = "images/team/aly_2.jpeg"
+videoURL3 = "https://www.youtube.com/embed/x9-iXfZA8VQ"
 
 # About 2 Section
 [Languages.fr.params.aboutSm]
@@ -105,6 +107,8 @@ videoThumb = "images/slider/stone_town_1.jpg"
 videoURL = "https://www.youtube.com/embed/nJqRHrpi0Mk"
 videoThumb2 = "images/portfolio/snorkling_1.jpeg"
 videoURL2 = "https://www.youtube.com/embed/2aBDIBct83Q"
+videoThumb3 = "images/team/aly_2.jpeg"
+videoURL3 = "https://www.youtube.com/embed/uXKDssSp3cQ"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
